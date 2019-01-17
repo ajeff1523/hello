@@ -10,6 +10,7 @@
 
 int main(int argc, char **argv) {
 
+  printf("Austin Jeffrey\n");
   printf("Finance\n");
 
   return 0;
