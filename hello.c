@@ -14,6 +14,7 @@ int main(int argc, char **argv) {
   printf("Finance\n");
   printf("Sam Stott\n");
   printf("Marketing");
+  printf("Shalom\n");
 
   return 0;
 }
